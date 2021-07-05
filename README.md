@@ -7,30 +7,29 @@ These are the results of the vision class project.
 Deep Feature Factorization For Concept Discovery (In The Euopean Conference on Computer Vision (ECCV), 2018)
 The simple Matrix Factorization part of the model of Deep Feature Factorization for concept discovery was replaced with a deep model.
 
+![슬라이드1](https://user-images.githubusercontent.com/37695581/124406786-3aad0480-dd7d-11eb-9243-056f52bd3fe5.PNG)
+
+![슬라이드2](https://user-images.githubusercontent.com/37695581/124406788-3c76c800-dd7d-11eb-9c5c-ed6789dc3da8.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/37695581/124406734-1f41f980-dd7d-11eb-9274-4e73ebf04a9c.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/37695581/124406737-20732680-dd7d-11eb-92a0-44e5eadbbb19.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/37695581/124406739-210bbd00-dd7d-11eb-8693-ac50940cca3d.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/37695581/124406740-21a45380-dd7d-11eb-9007-e1df83d87008.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/37695581/124406742-21a45380-dd7d-11eb-81b7-0111fda16854.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/37695581/124406743-223cea00-dd7d-11eb-81d0-9b18d0c7d482.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/37695581/124406745-236e1700-dd7d-11eb-9c7b-2b8c4ec01009.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/37695581/124406747-2406ad80-dd7d-11eb-8016-27e3cec5f2a9.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/37695581/124406748-249f4400-dd7d-11eb-9622-ecda268a17ca.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/37695581/124406749-2537da80-dd7d-11eb-909b-1e332c777cbd.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/37695581/124406750-2537da80-dd7d-11eb-871a-a2721fe28197.PNG)
+![슬라이드14](https://user-images.githubusercontent.com/37695581/124406751-25d07100-dd7d-11eb-8327-ba66be16e706.PNG)
+![슬라이드15](https://user-images.githubusercontent.com/37695581/124406753-26690780-dd7d-11eb-995b-a26b527c0c99.PNG)
+![슬라이드16](https://user-images.githubusercontent.com/37695581/124406754-27019e00-dd7d-11eb-85dd-502fb83352d5.PNG)
+![슬라이드17](https://user-images.githubusercontent.com/37695581/124406756-279a3480-dd7d-11eb-8db2-aebcb08290b0.PNG)
+![슬라이드18](https://user-images.githubusercontent.com/37695581/124406757-2832cb00-dd7d-11eb-8942-a9637b5ec54d.PNG)
+![19](https://user-images.githubusercontent.com/37695581/124406846-65975880-dd7d-11eb-982d-13bcf6661964.jpg)
+![슬라이드20](https://user-images.githubusercontent.com/37695581/124406779-37197d80-dd7d-11eb-8692-25bf23ee5652.PNG)
 
 
-
-
-![슬라이드1](https://user-images.githubusercontent.com/37695581/124406334-169cf380-dd7c-11eb-895a-3b7899f92ca0.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/37695581/124406335-169cf380-dd7c-11eb-97d2-06601a33b25b.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/37695581/124406336-17358a00-dd7c-11eb-9a73-ade2a34d17e5.JPG)
-![슬라이드4](https://user-images.githubusercontent.com/37695581/124406337-17ce2080-dd7c-11eb-8a04-b9ab7f427ec1.JPG)
-![슬라이드5](https://user-images.githubusercontent.com/37695581/124406338-17ce2080-dd7c-11eb-8040-86fb8699e671.JPG)
-![슬라이드6](https://user-images.githubusercontent.com/37695581/124406340-1866b700-dd7c-11eb-8f1f-02af09c1a55a.JPG)
-![슬라이드7](https://user-images.githubusercontent.com/37695581/124406341-1866b700-dd7c-11eb-8aa2-2f5a6ab1b632.JPG)
-![슬라이드8](https://user-images.githubusercontent.com/37695581/124406344-18ff4d80-dd7c-11eb-91ac-6c7bf5d6cb32.JPG)
-![슬라이드9](https://user-images.githubusercontent.com/37695581/124406345-1997e400-dd7c-11eb-8ea3-e98a6e83881f.JPG)
-![슬라이드10](https://user-images.githubusercontent.com/37695581/124406346-1997e400-dd7c-11eb-80c2-6afa1f38c327.JPG)
-![슬라이드11](https://user-images.githubusercontent.com/37695581/124406349-1a307a80-dd7c-11eb-9d33-756605b140be.JPG)
-![슬라이드12](https://user-images.githubusercontent.com/37695581/124406350-1a307a80-dd7c-11eb-9f94-761e94cfe0ac.JPG)
-![슬라이드13](https://user-images.githubusercontent.com/37695581/124406351-1ac91100-dd7c-11eb-9c01-68e5d9f274ec.JPG)
-![슬라이드14](https://user-images.githubusercontent.com/37695581/124406354-1b61a780-dd7c-11eb-94c8-a7d9110c9de9.JPG)
-![슬라이드15](https://user-images.githubusercontent.com/37695581/124406355-1b61a780-dd7c-11eb-9bd5-28faa02bb6de.JPG)
-![슬라이드16](https://user-images.githubusercontent.com/37695581/124406356-1bfa3e00-dd7c-11eb-85ce-a4ea02e89ce7.JPG)
-![슬라이드17](https://user-images.githubusercontent.com/37695581/124406359-1bfa3e00-dd7c-11eb-985e-6064b30875ce.JPG)
-![슬라이드18](https://user-images.githubusercontent.com/37695581/124406328-143a9980-dd7c-11eb-9661-2c2e67c9c608.JPG)
-![슬라이드19](https://user-images.githubusercontent.com/37695581/124406331-16045d00-dd7c-11eb-9a84-9bf7e94ecfe9.JPG)
-![슬라이드20](https://user-images.githubusercontent.com/37695581/124406333-16045d00-dd7c-11eb-976a-19e377589b47.JPG)
 
 <object data="https://github.com/SehwanMoon/Vision-segmentaiont-Deep-feature-factorization/files/6760945/vision.pdf" width="700px" height="700px">
     <embed src="https://github.com/SehwanMoon/Vision-segmentaiont-Deep-feature-factorization/files/6760945/vision.pdf">
