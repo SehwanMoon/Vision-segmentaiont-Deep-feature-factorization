@@ -1,33 +1,34 @@
 # Vision-segmentaiont-Deep-feature-factorization
 Deep Feature Factorization For Concept Discovery  + deep semi-NMF
-
+2019/12/20
 
 These are the results of the vision class project.
 
 Deep Feature Factorization For Concept Discovery (In The Euopean Conference on Computer Vision (ECCV), 2018)
 The simple Matrix Factorization part of the model of Deep Feature Factorization for concept discovery was replaced with a deep model.
 
-![슬라이드1](https://user-images.githubusercontent.com/37695581/124406786-3aad0480-dd7d-11eb-9243-056f52bd3fe5.PNG)
+![슬라이드1](https://user-images.githubusercontent.com/37695581/124406967-b444f280-dd7d-11eb-9649-c2e7bb7637d6.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/37695581/124406968-b4dd8900-dd7d-11eb-94b7-815cbce531e3.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/37695581/124406942-ac854e00-dd7d-11eb-86fa-805b5fe989a5.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/37695581/124406943-ae4f1180-dd7d-11eb-9236-afdeff43df39.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/37695581/124406945-ae4f1180-dd7d-11eb-8581-27b620f294be.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/37695581/124406946-aee7a800-dd7d-11eb-9d0b-22ebb15cec68.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/37695581/124406947-aee7a800-dd7d-11eb-914e-c8e091481f9a.JPG)
+![슬라이드8](https://user-images.githubusercontent.com/37695581/124406948-af803e80-dd7d-11eb-8f24-af12356e8e63.JPG)
+![슬라이드9](https://user-images.githubusercontent.com/37695581/124406950-b018d500-dd7d-11eb-88ec-90af094dd819.JPG)
+![슬라이드10](https://user-images.githubusercontent.com/37695581/124406952-b018d500-dd7d-11eb-9b0f-2b909bce0aba.JPG)
+![슬라이드11](https://user-images.githubusercontent.com/37695581/124406954-b0b16b80-dd7d-11eb-81f4-6513c542e053.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/37695581/124406955-b0b16b80-dd7d-11eb-8677-a4799d5b2e11.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/37695581/124406956-b14a0200-dd7d-11eb-9336-e16f6986b860.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/37695581/124406958-b1e29880-dd7d-11eb-9428-52c919c48da5.JPG)
+![슬라이드15](https://user-images.githubusercontent.com/37695581/124406959-b1e29880-dd7d-11eb-93a4-237eee28c140.JPG)
+![슬라이드16](https://user-images.githubusercontent.com/37695581/124406961-b27b2f00-dd7d-11eb-8c00-b211b1bc08c1.JPG)
+![슬라이드17](https://user-images.githubusercontent.com/37695581/124406962-b27b2f00-dd7d-11eb-8d42-fe0785f59178.JPG)
+![슬라이드18](https://user-images.githubusercontent.com/37695581/124406964-b313c580-dd7d-11eb-9532-8a6ecc1c3946.JPG)
+![슬라이드19](https://user-images.githubusercontent.com/37695581/124406965-b3ac5c00-dd7d-11eb-8066-b6d4d427d099.JPG)
+![슬라이드20](https://user-images.githubusercontent.com/37695581/124406966-b444f280-dd7d-11eb-82a6-9fe726cc6a97.JPG)
 
-![슬라이드2](https://user-images.githubusercontent.com/37695581/124406788-3c76c800-dd7d-11eb-9c5c-ed6789dc3da8.PNG)
-![슬라이드3](https://user-images.githubusercontent.com/37695581/124406734-1f41f980-dd7d-11eb-9274-4e73ebf04a9c.PNG)
-![슬라이드4](https://user-images.githubusercontent.com/37695581/124406737-20732680-dd7d-11eb-92a0-44e5eadbbb19.PNG)
-![슬라이드5](https://user-images.githubusercontent.com/37695581/124406739-210bbd00-dd7d-11eb-8693-ac50940cca3d.PNG)
-![슬라이드6](https://user-images.githubusercontent.com/37695581/124406740-21a45380-dd7d-11eb-9007-e1df83d87008.PNG)
-![슬라이드7](https://user-images.githubusercontent.com/37695581/124406742-21a45380-dd7d-11eb-81b7-0111fda16854.PNG)
-![슬라이드8](https://user-images.githubusercontent.com/37695581/124406743-223cea00-dd7d-11eb-81d0-9b18d0c7d482.PNG)
-![슬라이드9](https://user-images.githubusercontent.com/37695581/124406745-236e1700-dd7d-11eb-9c7b-2b8c4ec01009.PNG)
-![슬라이드10](https://user-images.githubusercontent.com/37695581/124406747-2406ad80-dd7d-11eb-8016-27e3cec5f2a9.PNG)
-![슬라이드11](https://user-images.githubusercontent.com/37695581/124406748-249f4400-dd7d-11eb-9622-ecda268a17ca.PNG)
-![슬라이드12](https://user-images.githubusercontent.com/37695581/124406749-2537da80-dd7d-11eb-909b-1e332c777cbd.PNG)
-![슬라이드13](https://user-images.githubusercontent.com/37695581/124406750-2537da80-dd7d-11eb-871a-a2721fe28197.PNG)
-![슬라이드14](https://user-images.githubusercontent.com/37695581/124406751-25d07100-dd7d-11eb-8327-ba66be16e706.PNG)
-![슬라이드15](https://user-images.githubusercontent.com/37695581/124406753-26690780-dd7d-11eb-995b-a26b527c0c99.PNG)
-![슬라이드16](https://user-images.githubusercontent.com/37695581/124406754-27019e00-dd7d-11eb-85dd-502fb83352d5.PNG)
-![슬라이드17](https://user-images.githubusercontent.com/37695581/124406756-279a3480-dd7d-11eb-8db2-aebcb08290b0.PNG)
-![슬라이드18](https://user-images.githubusercontent.com/37695581/124406757-2832cb00-dd7d-11eb-8942-a9637b5ec54d.PNG)
-![19](https://user-images.githubusercontent.com/37695581/124406846-65975880-dd7d-11eb-982d-13bcf6661964.jpg)
-![슬라이드20](https://user-images.githubusercontent.com/37695581/124406779-37197d80-dd7d-11eb-8692-25bf23ee5652.PNG)
+
 
 
 
